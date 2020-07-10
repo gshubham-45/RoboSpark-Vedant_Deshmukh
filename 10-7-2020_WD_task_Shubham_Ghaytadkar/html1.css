@@ -1,0 +1,36 @@
+
+.about
+{
+ position: relative;
+ background:linear-gradient(rgb(140, 187, 101), rgb(162, 205, 230));
+ color: rgb(194, 16, 46);
+ border:5px solid violet;
+ left:10px;
+ top:0px;
+ width:30%;
+ height:15%;
+}
+
+.education
+{
+ position: relative;
+ background:linear-gradient(rgb(219, 137, 195), rgb(88, 165, 209));
+ color: rgb(194, 87, 16);
+ border:5px solid rgb(206, 61, 24);
+ left:400px;
+ top:15px;
+ width:30%;
+ height:15%;
+}
+
+.project
+{
+ position: relative;
+ background:linear-gradient(rgb(216, 100, 100), rgb(236, 245, 118));
+ color: rgb(27, 14, 197);
+ border:5px solid rgb(3, 51, 7);
+ left:10px;
+ top:30px;
+ width:30%;
+ height:15%;
+}
